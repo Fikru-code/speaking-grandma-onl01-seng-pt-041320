@@ -1,6 +1,7 @@
 
-def speak_to_grandma method = "I LOVE YOU GRADMA!".
-  
+def speak_to_grandma = "I LOVE YOU GRADMA!".
+end
+
   if phrase =="I LOVE YOU GRANDMA!"
     I LOVE YOU TOO PUMPKIN!
     elsif phrase !=capitals
