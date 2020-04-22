@@ -1,5 +1,5 @@
 
-def speak_to_grandma method.
+def speak_to_grandma method = "I LOVE YOU GRADMA!".
   
   if phrase =="I LOVE YOU GRANDMA!"
     I LOVE YOU TOO PUMPKIN!
