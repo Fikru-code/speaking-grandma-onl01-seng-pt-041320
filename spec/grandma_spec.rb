@@ -18,5 +18,22 @@ describe '#speak_to_grandma' do
   it 'responds with NO, NOT SINCE 1938! for a second time' do
     expect(speak_to_grandma('WHAT?')).to eq "NO, NOT SINCE 1938!"
   end
-
+def speak_to_grandma(phrase)=="I LOVE YOU GRANDMA!"
+  'I LOVE YOU TOO PUMPIN!'
+  
 end
+
+
+
+def speak_to_grandma(phrase)
+  if phrase="I LOVE YOU GRANDMA!"
+    "I LOVE YOU TOO PUMPKIN!"
+    elsif pharase !=phrase.upcase
+    HUH?! SPEAK UP, SONNY!
+  else
+    NO, NOT SINCE 1938!
+  end 
+   
+ end
+    
+  if phr
